@@ -1,5 +1,0 @@
-Doni : 75
-Abim : 80 
-Mahmud : 92
-Fano : 65
-Joni : 55

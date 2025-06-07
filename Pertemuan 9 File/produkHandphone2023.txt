@@ -1,7 +1,0 @@
-Iphone : 83 Produk
-Samsung : 73 Produk
-Sony : 10 Produk
-Oppo : 90 Produk
-Vivo : 65 Produk
-Infinix : 20 Produk
-Nokia : 2 Produk 
